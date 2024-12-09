@@ -1,6 +1,7 @@
 # Hi there !  I'm Pamela 👋
 
-Welcome to my GitHub profile! I’m a beginner in data analysis and I’m passionate about learning and applying various data analysis techniques to derive valuable insights from data. My journey started with Excel and now I’m expanding my skills into tools like Power BI, Python, SQL, Tableau, and more. 🚀
+
+Welcome to my GitHub profile! I’m a budding data analyst and I've always been fascinated by how data, when properly understood and interpreted, can tell powerful stories and reveal insights that drive change.I’m passionate about learning and applying various data analysis techniques to derive valuable insights from data. I aim to continually expand my skills in data transformation, data manipulation, analysis, and visualization with tools like SQL, Python, and Excel, Power BI, Tableau, while contributing to impactful projects. 🚀
 
                             
 
