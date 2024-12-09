@@ -101,7 +101,7 @@ I’m continuously improving my skills by learning from resources such as online
 ## 🔗 Connect with Me
 Feel free to reach out to me if you have any questions or just want to discuss data analytics! I’m always open to learning and collaborating. 🤝
 
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: www.linkedin.com/in/pamela-thamanm-366908324
 - Email: [Your Email]
 
 
