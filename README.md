@@ -47,34 +47,42 @@ Welcome to my GitHub profile! I’m a budding data analyst and I've always been 
  -->
 
 
-### **Data Analysis & Visualization**
-- **Excel** 🧑‍💻
-  - Data cleaning, formatting, and basic analysis
-  - PivotTables, PivotCharts, and advanced Excel functions
-  - Conditional formatting, data validation, and formula creation
-  
-- **Power Query** 🔄
-  - Data extraction, transformation, and loading (ETL)
-  - Automation of data cleaning tasks in Power BI and Excel
+## 📚 Projects
 
+Here are some of the projects I’ve worked on:
+
+
+- **Excel** 🧑‍💻
+   Cookies Company Sales Analysis  
+   https://github.com/pamela-tham/Cookie-Company-Performance-Insights-Excel-Project.git
+  
 - **Power BI** 📊
-  - Data modeling and creating interactive dashboards
-  - DAX measures and calculations
-  - Connecting to various data sources including databases and files
+   Retail Store Sales and Performance Analysis 
+   https://github.com/pamela-tham/Retail-Store-Analysis-Project-PowerBI.git
+
+   Model Car Company Sales Analysis
+   https://github.com/pamela-tham/Classic-Models-Product-Analysis-Project-using-MySQL-and-Power-BI.git
 
 - **SQL** 🗃️
   - Database querying for data extraction and manipulation
   - Writing complex SQL queries for reporting and analysis
 
 - **Tableau** 📈
-  - Creating interactive visualizations and dashboards
-  - Data blending and calculations within Tableau
+  - **HR Analytics Dashboard**:
+     Developed an HR dashboard using Tableau and SQL to track key HR metrics.
+  
+     The aim of the project is to analyse human resources data using Tableau Public and providing summary views for high-level insights and in-depth analysis. It gives an idea of the composition of the 
+     workforce, the overall HR metrics, income analysis with salary-related metrics.
+  
+     The insights will help the organisation improve efficiency, recruitment process, employee satisfaction, and overall organisational performance.
+  
+     https://github.com/pamela-tham/Human-Resources-Analytics-Project-using-Excel-and-Tableau.git
+
 
 ### **Programming & Data analysis**
 - **Python** 🐍
-  - Data analysis using libraries like `Pandas` and `NumPy`
-  - Writing scripts to clean, transform, and analyze data
-  - Data visualization using `Matplotlib` and `Seaborn`
+- Healthcare Data Exploratory Data Analysis(EDA)
+ https://github.com/pamela-tham/Healthcare-EDA-Project-using-Python.git
 
 - **Pandas** 📊
   - Data manipulation using DataFrames (filtering, grouping, and aggregating)
@@ -85,8 +93,11 @@ Welcome to my GitHub profile! I’m a budding data analyst and I've always been 
 
 Here are some of the projects I’ve worked on:
 
+
+
 - **Sales Data Analysis**: Used Excel and Power BI to analyze sales performance, identify trends, and visualize insights through dashboards.
-- **Employee Data Dashboard**: Developed an HR dashboard using Power BI and SQL to track key HR metrics.
+- 
+
 - **SQL & Data Cleansing Projects**: Worked with SQL and Power Query to clean and transform large datasets, optimizing them for analysis.
 - **Python Analysis**: Used Python and Pandas to clean and analyze datasets, performing data wrangling and creating visualizations.
 
