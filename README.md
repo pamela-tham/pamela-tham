@@ -51,62 +51,46 @@ Welcome to my GitHub profile! I’m a budding data analyst and I've always been 
 
 Here are some of the projects I’ve worked on:
 
-
-- **Excel** 🧑‍💻
-   Cookies Company Sales Analysis  
-   https://github.com/pamela-tham/Cookie-Company-Performance-Insights-Excel-Project.git
+- **Tableau** 📈
   
-- **Power BI** 📊
-   Retail Store Sales and Performance Analysis 
-   https://github.com/pamela-tham/Retail-Store-Analysis-Project-PowerBI.git
-
+  **HR Analytics Dashboard**:   
+        
+   https://github.com/pamela-tham/Human-Resources-Analytics-Project-using-Excel-and-Tableau.git
+   
+    
+- **SQL and Power BI** 🗃️
+  
    Model Car Company Sales Analysis
+  
    https://github.com/pamela-tham/Classic-Models-Product-Analysis-Project-using-MySQL-and-Power-BI.git
 
-- **SQL** 🗃️
-  - Database querying for data extraction and manipulation
-  - Writing complex SQL queries for reporting and analysis
-
-- **Tableau** 📈
-  - **HR Analytics Dashboard**:
-     Developed an HR dashboard using Tableau and SQL to track key HR metrics.
   
-     The aim of the project is to analyse human resources data using Tableau Public and providing summary views for high-level insights and in-depth analysis. It gives an idea of the composition of the 
-     workforce, the overall HR metrics, income analysis with salary-related metrics.
+- **Power BI**  📊
   
-     The insights will help the organisation improve efficiency, recruitment process, employee satisfaction, and overall organisational performance.
+   Retail Store Sales and Performance Analysis
   
-     https://github.com/pamela-tham/Human-Resources-Analytics-Project-using-Excel-and-Tableau.git
+   https://github.com/pamela-tham/Retail-Store-Analysis-Project-PowerBI.git
 
 
-### **Programming & Data analysis**
 - **Python** 🐍
-- Healthcare Data Exploratory Data Analysis(EDA)
- https://github.com/pamela-tham/Healthcare-EDA-Project-using-Python.git
+  
+   Healthcare Data Exploratory Data Analysis(EDA)
+  
+   https://github.com/pamela-tham/Healthcare-EDA-Project-using-Python.git
 
-- **Pandas** 📊
-  - Data manipulation using DataFrames (filtering, grouping, and aggregating)
-  - Handling missing data, merging, and reshaping datasets
-  - Performing time series analysis and exploratory data analysis (EDA)
+- **Excel** 🧑‍💻
+  
+   Cookies Company Sales Analysis
+  
+   https://github.com/pamela-tham/Cookie-Company-Performance-Insights-Excel-Project.git
 
-## 📚 Projects
-
-Here are some of the projects I’ve worked on:
-
-
-
-- **Sales Data Analysis**: Used Excel and Power BI to analyze sales performance, identify trends, and visualize insights through dashboards.
-- 
-
-- **SQL & Data Cleansing Projects**: Worked with SQL and Power Query to clean and transform large datasets, optimizing them for analysis.
-- **Python Analysis**: Used Python and Pandas to clean and analyze datasets, performing data wrangling and creating visualizations.
 
 
 ## 🌱 Learning & Growth
 I’m continuously improving my skills by learning from resources such as online courses, tutorials, and hands-on practice with real-world datasets. Here are a few areas I'm currently focusing on:
 
 - Advanced SQL queries and performance tuning
-- Deepening my knowledge of data visualization techniques in Tableau
+- Deepening my knowledge of data visualization techniques in Power BI and Tableau
 - Exploring cloud-based tools for data analysis
 
 ## 🔗 Connect with Me
